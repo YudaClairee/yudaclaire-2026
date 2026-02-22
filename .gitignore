@@ -13,5 +13,5 @@ __unconfig*
 todos.json
 
 
-.pnpm-store
-.env.local
+.pnpm-store*
+.env.local*
